@@ -1,4 +1,4 @@
-# PoliNetwork documentation
+# PoliNetwork Documentation
 
 Official website https://polinetwork.org/
 
