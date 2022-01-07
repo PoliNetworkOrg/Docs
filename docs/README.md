@@ -1,9 +1,7 @@
-# Docs
+# PoliNetwork documentation
 
-## Test1
+Official website https://polinetwork.org/
 
-Test2
+## Projects
 
-### Test3
-
-Test4
+Projects' documentation can be found [here](/projects/)
