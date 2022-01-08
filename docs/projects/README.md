@@ -2,4 +2,4 @@
 
 Projects
 
-* [Docs][/docs/]
+* [Docs](/docs/)
