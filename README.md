@@ -4,4 +4,4 @@ https://polinetworkorg.github.io/Docs/#/
 
 ## Contributing
 
-https://docsify.js.org/#/quickstart
+https://polinetworkorg.github.io/Docs/#/projects/docs
