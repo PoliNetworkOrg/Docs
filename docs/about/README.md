@@ -10,17 +10,17 @@ L'obiettivo più grande resta quello di creare, attraverso l'uso di piattaforme 
 
 ### 📖 Che tipo di informazioni puoi trovare e dove cercarle
 
-Il target delle informazioni fornite da PoliNetwork riflette il carattere delle domande a noi rivolte (per questo motivo invitiamo periodicamente gli utenti a rispondere al questionario disponibile al seguente link:).
--test d'ingresso e preparazione
--immatricolazione
--corsi di recupero e ripasso
--borse di studio
--versamento delle tasse
--materiale universitario
--residenze
--sport
--progetti e associazioni studenti
--indicazioni per residenti all'estero e studenti stranieri.
+Il target delle informazioni fornite da PoliNetwork riflette il carattere delle domande a noi rivolte.
+* test d'ingresso e preparazione
+* immatricolazione
+* corsi di recupero e ripasso
+* borse di studio
+* versamento delle tasse
+* materiale universitario
+* residenze
+* sport
+* progetti e associazioni studenti
+* indicazioni per residenti all'estero e studenti stranieri.
 
 Le informazioni sono facilmente reperibili sul sito ufficiale https://polinetwork.org
 
