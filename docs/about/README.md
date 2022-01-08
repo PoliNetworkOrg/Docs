@@ -24,7 +24,7 @@ Il target delle informazioni fornite da PoliNetwork riflette il carattere delle 
 
 Le informazioni sono facilmente reperibili sul sito ufficiale https://polinetwork.org
 
-Le risposte alle domande più frequenti sono disponibili [qui][/faq/]
+Le risposte alle domande più frequenti sono disponibili [qui](/faq/)
 
 
 ### Come contattarci
