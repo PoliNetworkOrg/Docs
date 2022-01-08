@@ -1,6 +1,7 @@
 # Docs
 
-https://polinetworkorg.github.io/Docs/#/
+* https://polinetworkorg.github.io/Docs/#/
+* https://docs.polinetwork.org/
 
 ## Contributing
 
