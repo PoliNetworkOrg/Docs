@@ -2,10 +2,10 @@
 
 Official website https://polinetwork.org/
 
-## Network
+## 🌐 Network
 
 Find more about our network [here](/about/)
 
-## Projects
+## 🔧 Projects
 
 Projects' documentation can be found [here](/projects/)

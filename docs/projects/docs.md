@@ -1,4 +1,8 @@
-## This website documentation
+## Docs
+
+### Contributing
+
+https://docsify.js.org/#/quickstart
 
 To contribute in this document website, clone the repository and then do
 

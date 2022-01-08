@@ -1,5 +1,5 @@
 # Projects
 
-Projects
+Full projects list:
 
-* [Docs](/projects/docs)
+* [📃 Docs](/projects/docs)
