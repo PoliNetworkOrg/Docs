@@ -28,5 +28,4 @@ Le risposte alle domande più frequenti sono disponibili all'indirizzo www Faq d
 
 ### Come contattarci
 
-Indirizzo di posta ufficiale:
-Rappresentanti Admin:
+Trovi tutti i nostri contatti qui https://polinetwork.org/it/learnmore/contacts/
