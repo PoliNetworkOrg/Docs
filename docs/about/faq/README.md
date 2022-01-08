@@ -1,5 +1,7 @@
 ## FAQ
 
+_Pagina in costruzione..._
+
 ### Domanda 1?
 
 Risposta1
