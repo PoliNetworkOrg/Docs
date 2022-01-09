@@ -36,7 +36,9 @@
 					var footer = [
 						'<footer style="text-align: center;margin-top: calc(75px + 3vw + 3vh);">',
 						'<hr />',
-						'<span id="copyright"> <a href="https://polinetwork.org">PoliNetwork</a> Docs  &copy; 2022 </span>',
+						'<span id="copyright"> <a href="https://polinetwork.org">PoliNetwork</a> Docs  &copy; ',
+						new Date().getFullYear(),
+						' </span>',
 						'</footer>'
 					].join('');
 
@@ -47,11 +49,10 @@
 			],
 		}
 	</script>
-	<script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
 	<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-	<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript">
-	</script>
+	<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+		type="text/javascript"></script>
 </body>
 
 </html>
