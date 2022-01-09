@@ -1,5 +1,9 @@
 ## 🤖 Telegram bot
 
+### 🔗 Link
+
+Text the bot here: https://t.me/polinetwork3bot
+
 ### 📚 Source code
 
 https://github.com/PoliNetworkOrg/PoliNetworkBot_CSharp
