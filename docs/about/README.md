@@ -27,6 +27,10 @@ Le informazioni sono facilmente reperibili sul sito ufficiale https://polinetwor
 Le risposte alle domande più frequenti sono disponibili [qui](/about/faq/)
 
 
+### Gruppi
+
+Vedi maggiori dettagli [qui](/about/groups/)
+
 ### ✍ Come contattarci
 
 Trovi tutti i nostri contatti qui https://polinetwork.org/it/learnmore/contacts/
