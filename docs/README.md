@@ -1,11 +1,13 @@
 # PoliNetwork Docs
 
-Official website https://polinetwork.org/
+Sito Ufficiale https://polinetwork.org/
 
-## 🌐 Network
+Official Website https://polinetwork.org/
 
-Find more about our network [here](/about/)
+## 🇮🇹 Italiano
 
-## 🔧 Projects
+Leggi la documentazione in Italiano [qui](/it/)
 
-Projects' documentation can be found [here](/projects/)
+## 🇬🇧 English
+
+Read the documentation in English [here](/en/)

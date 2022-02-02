@@ -1,13 +1,13 @@
-## 🤖 Telegram bot
+# 🤖 Telegram bot
 
-### 🔗 Link
+## 🔗 Link to the chat with the bot
 
 Text the bot here: https://t.me/polinetwork3bot
 
-### 📚 Source code
+## 📚 Source code
 
 https://github.com/PoliNetworkOrg/PoliNetworkBot_CSharp
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Use  ``` Visual Studio 2022 ```  and open  ``` PoliNetworkBot_CSharp.sln ``` 
